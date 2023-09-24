@@ -1,0 +1,11 @@
+/Users/foobar123/Downloads/emu_build/goldberg_emulator/macos64/CMakeFiles/steam_api.dir
+/Users/foobar123/Downloads/emu_build/goldberg_emulator/macos64/CMakeFiles/steamclient.dir
+/Users/foobar123/Downloads/emu_build/goldberg_emulator/macos64/CMakeFiles/lobby_connect.dir
+/Users/foobar123/Downloads/emu_build/goldberg_emulator/macos64/CMakeFiles/generate_interfaces.dir
+/Users/foobar123/Downloads/emu_build/goldberg_emulator/macos64/CMakeFiles/generate_game_infos.dir
+/Users/foobar123/Downloads/emu_build/goldberg_emulator/macos64/CMakeFiles/edit_cache.dir
+/Users/foobar123/Downloads/emu_build/goldberg_emulator/macos64/CMakeFiles/rebuild_cache.dir
+/Users/foobar123/Downloads/emu_build/goldberg_emulator/macos64/CMakeFiles/list_install_components.dir
+/Users/foobar123/Downloads/emu_build/goldberg_emulator/macos64/CMakeFiles/install.dir
+/Users/foobar123/Downloads/emu_build/goldberg_emulator/macos64/CMakeFiles/install/local.dir
+/Users/foobar123/Downloads/emu_build/goldberg_emulator/macos64/CMakeFiles/install/strip.dir
